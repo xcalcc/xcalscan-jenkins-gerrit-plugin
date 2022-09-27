@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin will trigger Xcalscan code analysis and report the results.
+</div>

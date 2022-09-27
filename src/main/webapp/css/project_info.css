@@ -1,0 +1,41 @@
+.badge {
+	display: inline-block;
+	min-width: 10px;
+	padding: 2px 7px;
+	letter-spacing: .03em;
+	color: #fff;
+	vertical-align: baseline;
+	white-space: nowrap;
+	text-align: center;
+}
+
+.badge-high {
+	background-color: red;
+}
+
+.badge-medium {
+	background-color: orange;
+}
+
+.badge-low {
+	background-color: #85bb43;
+}
+
+table.xcalscan-projects {
+	margin-left: 20px;
+}
+
+.xcalscan-summary {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.xcalscan-summary-label {
+	display: inline-block;
+}
+
+.xcalscan-summary-status {
+	display: inline-block;
+	margin-left: 10px;
+	background-color: #4b9fd5;
+}
